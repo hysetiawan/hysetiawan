@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hysetiawan
 - 👀 I’m interested in Data Science & Front Web Dvelopment
 - 📫 How to reach me harisetiawan.0712@gmail.com
+- Instagram : @hy.setiawan
 
 <!---
 hysetiawan/hysetiawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
